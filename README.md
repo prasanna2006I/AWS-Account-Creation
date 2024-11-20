@@ -1,4 +1,4 @@
-# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+![image](https://github.com/user-attachments/assets/6921318a-b058-44d5-95c1-ff96c2dad14c)# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 ## AIM
 To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
@@ -28,7 +28,12 @@ Review and Create IAM User
 ### REG NUMBER:212223220079
 ### NAME:PRASANNA I
 ## ROOT USER:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7a0ca606-05d5-4457-a13d-caa27be79d02)
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/a56bb8cd-e8ea-4d5d-a861-309073f112d3)
 
