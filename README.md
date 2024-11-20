@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6921318a-b058-44d5-95c1-ff96c2dad14c)# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 ## AIM
 To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
