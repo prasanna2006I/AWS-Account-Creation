@@ -28,7 +28,7 @@ Review and Create IAM User
 ### REG NUMBER:212223220079
 ### NAME:PRASANNA I
 ## ROOT USER:
-![image](https://github.com/user-attachments/assets/a024fce7-b04d-43ea-9cc2-3cd380cd61d8)
+![Uploading image.png…]()
 
 ![image](https://github.com/user-attachments/assets/a56bb8cd-e8ea-4d5d-a861-309073f112d3)
 
